@@ -5,6 +5,9 @@ playing = input("Do you want to test your of the world? ")
 
 if playing != "yes":
     quit()
+    
+username = raw_input("Enter username:")
+print("Username is: " + username)
 
 print("okay let's play :)")
 score = 0
