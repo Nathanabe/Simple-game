@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("Welcome to the brain game")
 
 playing = input("Do you want to test your of the world? ")
